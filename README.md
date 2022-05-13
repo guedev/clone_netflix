@@ -19,8 +19,8 @@ yarn dev
 
 <span>Versão desktop</span>
 <img src="src/screenshots/desktop01.PNG" alt="desktop01"> <br/> <br/> <br/>
-<img src="src/screenshots/desktop02.PNG" alt="desktop02">
-<span>Versão mobile</span> <br/> <br/><br/>
+<img src="src/screenshots/desktop02.PNG" alt="desktop02"> <br/><br/><br/>
+<span>Versão mobile</span> <br/>
 <img src="src/screenshots/mobile01.PNG" alt="mobile01">
 
 
