@@ -58,10 +58,27 @@ export default () => {
       </section>
 
       <footer>
-        Interface desenvolvida utilizando ReactJs <img src={LogoReact}></img><br/>
-        Todos os direitos de imagem reservados para <a href="https://www.netflix.com/br/" target="_blank">Netflix</a><br/>
-        Dados retirados do site <a href="https://www.themoviedb.org" target="_blank">themoviedb.org</a>
+        Interface desenvolvida utilizando ReactJs <img src={LogoReact}></img>
+        <br />
+        Todos os direitos de imagem reservados para{" "}
+        <a href="https://www.netflix.com/br/" target="_blank">
+          Netflix
+        </a>
+        <br />
+        Dados retirados do site{" "}
+        <a href="https://www.themoviedb.org" target="_blank">
+          themoviedb.org
+        </a>
       </footer>
+
+      {movieList.length <= 0 && (
+        <div className="loading">
+          <img
+            src="https://media.filmelier.com/noticias/br/2020/03/Netflix_LoadTime.gif"
+            alt="loading"
+          />
+        </div>
+      )}
     </div>
   );
 };
