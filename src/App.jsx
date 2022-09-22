@@ -77,9 +77,7 @@ export default () => {
             src="https://media.filmelier.com/noticias/br/2020/03/Netflix_LoadTime.gif"
             alt="loading"
           />
-        <!-- Start of HubSpot Embed Code -->
-  <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/8833042.js"></script>
-<!-- End of HubSpot Embed Code -->
+
         </div>
       )}
     </div>
