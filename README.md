@@ -31,7 +31,7 @@ Feito por [Lucas Guedes](https://www.linkedin.com/in/lucas-guedes-75a25920a/) �
 
 
 
-# Nome do meu projeto
+# Interface Netflix Clone
 
 Rápida descrição do objetivo de fazer esse projeto
 
@@ -42,7 +42,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :rocket: URL         | https://clone-netflix-guedev.vercel.app
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://imgbox.com/TUrBrc9C#vitrinedev)
+![](https://images2.imgbox.com/5c/70/TUrBrc9C_o.png#vitrinedev)
 
 ## Detalhes do projeto
 
